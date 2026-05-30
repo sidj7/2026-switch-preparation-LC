@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0051-n-queens) |
 | [0037-sudoku-solver](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0037-sudoku-solver) |
+| [0131-palindrome-partitioning](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
+| [0131-palindrome-partitioning](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
