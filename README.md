@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0051-n-queens) |
 | [0037-sudoku-solver](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0037-sudoku-solver) |
 | [0036-valid-sudoku](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0036-valid-sudoku) |
+| [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -22,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0037-sudoku-solver) |
 | [0036-valid-sudoku](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0036-valid-sudoku) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
