@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0037-sudoku-solver) |
 | [0036-valid-sudoku](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0036-valid-sudoku) |
 | [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
+| [0011-container-with-most-water](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0011-container-with-most-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
+| [0011-container-with-most-water](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0011-container-with-most-water) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0060-permutation-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
