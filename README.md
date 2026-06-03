@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0037-sudoku-solver) |
 | [0036-valid-sudoku](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0036-valid-sudoku) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0131-palindrome-partitioning) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
