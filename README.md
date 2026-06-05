@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0283-move-zeroes) |
 | [0001-two-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
 | [0131-palindrome-partitioning](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0131-palindrome-partitioning) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
