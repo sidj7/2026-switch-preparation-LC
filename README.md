@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0283-move-zeroes) |
 | [0001-two-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
+| [0075-sort-colors](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0283-move-zeroes) |
+| [0075-sort-colors](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0075-sort-colors) |
 ## Sliding Window
 |  |
 | ------- |
