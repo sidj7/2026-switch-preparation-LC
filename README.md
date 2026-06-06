@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0128-longest-consecutive-sequence) |
 | [0073-set-matrix-zeroes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0073-set-matrix-zeroes) |
+| [0048-rotate-image](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0037-sudoku-solver) |
 | [0036-valid-sudoku](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0073-set-matrix-zeroes) |
+| [0048-rotate-image](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0048-rotate-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0189-rotate-array) |
+| [0048-rotate-image](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
