@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0560-subarray-sum-equals-k) |
 | [0118-pascals-triangle](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0119-pascals-triangle-ii) |
+| [0229-majority-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0229-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0128-longest-consecutive-sequence) |
 | [0073-set-matrix-zeroes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0560-subarray-sum-equals-k) |
+| [0229-majority-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
 | [0075-sort-colors](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0560-subarray-sum-equals-k) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
