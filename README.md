@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0054-spiral-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0560-subarray-sum-equals-k) |
 | [0118-pascals-triangle](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0131-palindrome-partitioning) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0118-pascals-triangle](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0119-pascals-triangle-ii) |
 ## Greedy
 |  |
 | ------- |
