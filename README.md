@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0229-majority-element-ii) |
 | [0015-3sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0229-majority-element-ii) |
 | [0015-3sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0056-merge-intervals) |
 ## String
 |  |
 | ------- |
