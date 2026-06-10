@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0056-merge-intervals) |
+| [2965-find-missing-and-repeated-values](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0560-subarray-sum-equals-k) |
 | [0229-majority-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0229-majority-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0073-set-matrix-zeroes) |
 | [0048-rotate-image](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0054-spiral-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0189-rotate-array) |
 | [0048-rotate-image](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0048-rotate-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
