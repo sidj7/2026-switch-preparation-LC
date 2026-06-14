@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0189-rotate-array) |
 | [0048-rotate-image](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0048-rotate-image) |
 | [2965-find-missing-and-repeated-values](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2965-find-missing-and-repeated-values) |
+| [0007-reverse-integer](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
