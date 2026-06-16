@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0152-maximum-product-subarray) |
 | [0053-maximum-subarray](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0059-spiral-matrix-ii) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0033-search-in-rotated-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0493-reverse-pairs) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
