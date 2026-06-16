@@ -10,7 +10,7 @@ public:
         while(l<=h){
             int m=l+(h-l)/2;
 
-            //if(ans>nums[m])ans=nums[m];
+            if(ans>nums[m])ans=nums[m];
 
             if(nums[l]<=nums[m]){
                 ans=min(ans,nums[l]);
