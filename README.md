@@ -102,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2965-find-missing-and-repeated-values) |
 | [0007-reverse-integer](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0069-sqrtx) |
+| [0050-powx-n](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0060-permutation-sequence) |
+| [0050-powx-n](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
