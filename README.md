@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0875-koko-eating-bananas) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0069-sqrtx](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0069-sqrtx) |
+| [0875-koko-eating-bananas](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
