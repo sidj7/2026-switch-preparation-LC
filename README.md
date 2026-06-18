@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0069-sqrtx) |
 | [0875-koko-eating-bananas](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
