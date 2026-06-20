@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [0162-find-peak-element](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0162-find-peak-element) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1539-kth-missing-positive-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [0162-find-peak-element](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0162-find-peak-element) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
