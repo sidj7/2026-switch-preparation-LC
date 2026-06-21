@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0162-find-peak-element) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1552-magnetic-force-between-two-balls) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0056-merge-intervals) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0162-find-peak-element) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
