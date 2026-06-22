@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1552-magnetic-force-between-two-balls) |
+| [0410-split-array-largest-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0410-split-array-largest-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0152-maximum-product-subarray) |
 | [0053-maximum-subarray](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0053-maximum-subarray) |
+| [0410-split-array-largest-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0435-non-overlapping-intervals) |
 | [0011-container-with-most-water](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0560-subarray-sum-equals-k) |
+| [0410-split-array-largest-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0410-split-array-largest-sum) |
 ## Counting
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1552-magnetic-force-between-two-balls) |
+| [0410-split-array-largest-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
