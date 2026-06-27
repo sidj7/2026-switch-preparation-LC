@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1552-magnetic-force-between-two-balls) |
 | [0410-split-array-largest-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0410-split-array-largest-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0004-median-of-two-sorted-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1552-magnetic-force-between-two-balls) |
 | [0410-split-array-largest-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0410-split-array-largest-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0004-median-of-two-sorted-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0493-reverse-pairs) |
 | [0053-maximum-subarray](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0053-maximum-subarray) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
