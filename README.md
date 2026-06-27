@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0560-subarray-sum-equals-k) |
 | [0229-majority-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2965-find-missing-and-repeated-values) |
+| [1189-maximum-number-of-balloons](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1189-maximum-number-of-balloons) |
 ## Matrix
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0131-palindrome-partitioning) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
