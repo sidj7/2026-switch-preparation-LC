@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1552-magnetic-force-between-two-balls) |
 | [0410-split-array-largest-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0410-split-array-largest-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0074-search-a-2d-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0054-spiral-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2965-find-missing-and-repeated-values) |
 | [0059-spiral-matrix-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1552-magnetic-force-between-two-balls) |
 | [0410-split-array-largest-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0410-split-array-largest-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
