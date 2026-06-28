@@ -1,35 +1,38 @@
 class Solution {
 public:
 
-    bool isval(vector<int>&bd,int m,int k,int md){
-        
-        int b=0,f=0;
-        for(int i:bd){
-            if(i<=md) f++;
+    bool isval(vector<int>&b,int m,int k,int md){
+        int bq=0,f=0;
+        for(int i:b){
+            if(i<=md){
+                f++;
+            }
             else{
-                b+=(f/k);
+                bq+=(f/k);
                 f=0;
             }
         }
-        b+=(f/k);
-        return b>=m ;
+        bq+=(f/k);
+        return bq>=m;
     }
-    int minDays(vector<int>& bd, int m, int k) {
-        if((long long)m*k>bd.size()) return -1;
-        int mn=*min_element(bd.begin(),bd.end());
-        int mx=*max_element(bd.begin(),bd.end());
-        int ans=1e9+1;
-        while(mn<=mx){
-            int md=mn+(mx-mn)/2;
 
-            if(isval(bd,m,k,md)){
-                ans=min(ans,md);
-                mx=md-1;
+    int minDays(vector<int>& b, int m, int k) {
+        int n=b.size();
+
+        if(n<(long long)m*k) return -1;
+        int l=*min_element(b.begin(),b.end());
+        int h=*max_element(b.begin(),b.end());
+
+
+        while(l<=h){
+            int md=l+(h-l)/2;
+            
+            if(isval(b,m,k,md)){
+                h=md-1;
             }
-            else{
-                mn=md+1;
-            }
+            else l=md+1;
         }
-        return ans==1e9+1?-1:ans;
+        return l;       
+
     }
 };
