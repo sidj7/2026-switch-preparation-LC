@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0152-maximum-product-subarray) |
 | [0053-maximum-subarray](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0410-split-array-largest-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0543-diameter-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,9 +224,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0543-diameter-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0543-diameter-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
