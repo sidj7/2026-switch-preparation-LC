@@ -21,15 +21,20 @@ public:
         bool odd = true;
         while(!q.empty()){
             int n=q.size();
-            vector<int>t;
+            vector<int>t(n);
+
             for(int i=0;i<n;i++){
                 TreeNode* p=q.front();
                 q.pop();
-                t.push_back(p->val);
+                if(odd){
+                    t[i]=p->val;
+                }
+                else{
+                    t[n-i-1]=p->val;
+                }
                 if(p->left)q.push(p->left);
                 if(p->right)q.push(p->right);
             }
-            if(!odd)reverse(t.begin(),t.end());
             odd=!odd;
             ans.push_back(t);
         }
