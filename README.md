@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0410-split-array-largest-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0005-longest-palindromic-substring](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0005-longest-palindromic-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0131-palindrome-partitioning) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1189-maximum-number-of-balloons) |
+| [0005-longest-palindromic-substring](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0005-longest-palindromic-substring) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0031-next-permutation) |
 | [0015-3sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0018-4sum) |
+| [0005-longest-palindromic-substring](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
