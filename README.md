@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1901-find-a-peak-element-ii) |
+| [1288-remove-covered-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1288-remove-covered-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0056-merge-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1552-magnetic-force-between-two-balls) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
 | ------- |
