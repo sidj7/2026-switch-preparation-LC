@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0199-binary-tree-right-side-view) |
+| [0101-symmetric-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0199-binary-tree-right-side-view) |
+| [0101-symmetric-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0199-binary-tree-right-side-view) |
+| [0101-symmetric-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -249,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0199-binary-tree-right-side-view) |
+| [0101-symmetric-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
