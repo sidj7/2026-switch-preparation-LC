@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1901-find-a-peak-element-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [0222-count-complete-tree-nodes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [0222-count-complete-tree-nodes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
