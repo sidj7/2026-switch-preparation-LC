@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1901-find-a-peak-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1288-remove-covered-intervals) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0053-maximum-subarray) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0240-search-a-2d-matrix-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [0222-count-complete-tree-nodes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0222-count-complete-tree-nodes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [0222-count-complete-tree-nodes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0222-count-complete-tree-nodes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
