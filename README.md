@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1189-maximum-number-of-balloons) |
 | [0005-longest-palindromic-substring](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0005-longest-palindromic-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0222-count-complete-tree-nodes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0222-count-complete-tree-nodes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,8 +287,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0222-count-complete-tree-nodes) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
