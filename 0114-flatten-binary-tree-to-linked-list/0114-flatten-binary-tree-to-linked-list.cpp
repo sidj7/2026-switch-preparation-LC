@@ -12,16 +12,33 @@
 class Solution {
 public:
     // tc - O(N) || sc - O(N) {recursion stack-space} || [right->left->root]
-    TreeNode*prev=NULL;
+    // TreeNode*prev=NULL;
+    // void flatten(TreeNode* root) {
+    //     if(!root) return;
+
+    //     flatten(root->right);
+    //     flatten(root->left);
+
+    //     root->right=prev;
+    //     root->left=NULL;
+    //     prev=root;
+    // }
+
     void flatten(TreeNode* root) {
         if(!root) return;
+        stack<TreeNode*>st;
+        st.push(root);
+        while(!st.empty()){
+            TreeNode* cur = st.top() ; st.pop();
 
-        flatten(root->right);
-        flatten(root->left);
+            if(cur->right) st.push(cur->right);
 
-        root->right=prev;
-        root->left=NULL;
-        prev=root;
+            if(cur->left) st.push(cur->left);
+
+            if(!st.empty()) cur->right = st.top();
+
+            cur->left = NULL;
+        }
     }
 
 
