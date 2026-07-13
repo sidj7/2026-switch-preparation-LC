@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+    // tc - O(N) || sc - O(N) {recursion stack-space} || [right->left->root]
     TreeNode*prev=NULL;
     void flatten(TreeNode* root) {
         if(!root) return;
@@ -22,4 +23,6 @@ public:
         root->left=NULL;
         prev=root;
     }
+
+
 };
