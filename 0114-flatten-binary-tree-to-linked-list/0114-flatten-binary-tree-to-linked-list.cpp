@@ -24,22 +24,37 @@ public:
     //     prev=root;
     // }
 
-    void flatten(TreeNode* root) {
-        if(!root) return;
-        stack<TreeNode*>st;
-        st.push(root);
-        while(!st.empty()){
-            TreeNode* cur = st.top() ; st.pop();
+    // tc - O(N) || sc - O(N) {stack} [right,left,root]
+    // void flatten(TreeNode* root) {
+    //     if(!root) return;
+    //     stack<TreeNode*>st;
+    //     st.push(root);
+    //     while(!st.empty()){
+    //         TreeNode* cur = st.top() ; st.pop();
 
-            if(cur->right) st.push(cur->right);
+    //         if(cur->right) st.push(cur->right);
 
-            if(cur->left) st.push(cur->left);
+    //         if(cur->left) st.push(cur->left);
 
-            if(!st.empty()) cur->right = st.top();
+    //         if(!st.empty()) cur->right = st.top();
 
-            cur->left = NULL;
+    //         cur->left = NULL;
+    //     }
+    // }
+
+    void flatten(TreeNode* cur) {
+        if(!cur) return;
+        TreeNode* root=cur;
+        while(root){
+            if(root->left){
+                TreeNode*prev=root->left;
+                while(prev->right) prev=prev->right;
+                prev->right=root->right;
+                root->right= root->left;
+                root->left=NULL;
+            }
+            root=root->right;
         }
     }
-
 
 };
