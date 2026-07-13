@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0144-binary-tree-preorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0144-binary-tree-preorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0144-binary-tree-preorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -307,4 +310,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0144-binary-tree-preorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
