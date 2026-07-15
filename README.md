@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1288-remove-covered-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1901-find-a-peak-element-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0222-count-complete-tree-nodes) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0700-search-in-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0700-search-in-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -321,4 +326,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0700-search-in-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
