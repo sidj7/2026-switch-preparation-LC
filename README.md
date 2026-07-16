@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0450-delete-node-in-a-bst) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0450-delete-node-in-a-bst) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -333,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0450-delete-node-in-a-bst) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
