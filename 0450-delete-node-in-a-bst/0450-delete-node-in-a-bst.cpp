@@ -22,20 +22,21 @@ public:
         if(key > root->val) root->right = deleteNode(root->right,key);
         else if(key < root->val) root->left = deleteNode(root->left,key);
         else{
-            if(!root->left){
-                TreeNode* t = root->right;
-                delete root;
-                return t;
+            
+            if(root->right && root->left){
+                TreeNode* t = findMin(root->right);
+                root->val = t->val;
+                root->right = deleteNode(root->right,t->val);
             }
-            else if(!root->right){
+            else if(root->left){
                 TreeNode* t = root->left;
                 delete root;
                 return t;
             }
             else{
-                TreeNode* t = findMin(root->right);
-                root->val = t->val;
-                root->right = deleteNode(root->right,t->val);
+                TreeNode* t = root->right;
+                delete root;
+                return t;
             }
         }
         return root;
