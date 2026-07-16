@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1552-magnetic-force-between-two-balls) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1288-remove-covered-intervals) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0450-delete-node-in-a-bst) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0450-delete-node-in-a-bst) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
