@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0700-search-in-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0700-search-in-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -330,4 +332,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0700-search-in-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
