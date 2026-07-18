@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0173-binary-search-tree-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0173-binary-search-tree-iterator) |
 ## Stack
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0173-binary-search-tree-iterator) |
 ## Linked List
 |  |
 | ------- |
@@ -354,8 +358,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0173-binary-search-tree-iterator) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
