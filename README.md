@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [0098-validate-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [0098-validate-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -345,4 +348,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0450-delete-node-in-a-bst) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
