@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0018-4sum) |
 | [0005-longest-palindromic-substring](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0005-longest-palindromic-substring) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0173-binary-search-tree-iterator) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0173-binary-search-tree-iterator) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -359,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0173-binary-search-tree-iterator) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
