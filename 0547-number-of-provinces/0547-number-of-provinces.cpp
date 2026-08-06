@@ -1,29 +1,26 @@
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>>&adj,vector<bool>&vis){
-        vis[node]=true;
-
-        for(int i:adj[node]){
-            if(!vis[i]) dfs(i,adj,vis);
+    void dfs(int node, vector<vector<int>>& isConnected, vector<bool>& vis) {
+        vis[node] = true;
+        
+        // Traverse all possible neighbors directly from the matrix
+        for (int j = 0; j < isConnected.size(); j++) {
+            // If there is an edge AND the neighbor isn't visited yet
+            if (isConnected[node][j] == 1 && !vis[j]) {
+                dfs(j, isConnected, vis);
+            }
         }
-        return;
     }
 
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n=isConnected.size();
-        vector<vector<int>>adj(n+1);
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(i!=j && !isConnected[i][j]) continue;
-                adj[i+1].push_back(j+1);
-                adj[j+1].push_back(i+1);
-            }
-        }
-        vector<bool>vis(n,false);
-        int ans=0;
-        for(int i=1;i<=n;i++){
-            if(!vis[i]){
-                dfs(i,adj,vis);
+        int n = isConnected.size();
+        vector<bool> vis(n, false);
+        int ans = 0;
+
+        // Stick to 0-based indexing
+        for (int i = 0; i < n; i++) {
+            if (!vis[i]) {
+                dfs(i, isConnected, vis);
                 ans++;
             }
         }
