@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1901-find-a-peak-element-ii) |
+| [0200-number-of-islands](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0547-number-of-provinces) |
+| [0200-number-of-islands](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0547-number-of-provinces](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0547-number-of-provinces) |
+| [0200-number-of-islands](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0099-recover-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0099-recover-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0547-number-of-provinces) |
+| [0200-number-of-islands](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
