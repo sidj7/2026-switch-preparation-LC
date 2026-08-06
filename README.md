@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0547-number-of-provinces) |
 ## Simulation
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0547-number-of-provinces](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0099-recover-binary-search-tree](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0099-recover-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0547-number-of-provinces) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0173-binary-search-tree-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
