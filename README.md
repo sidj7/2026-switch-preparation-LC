@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/1901-find-a-peak-element-ii) |
 | [0200-number-of-islands](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0547-number-of-provinces) |
 | [0200-number-of-islands](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
