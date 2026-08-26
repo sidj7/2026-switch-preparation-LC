@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0994-rotting-oranges) |
 | [0542-01-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0542-01-matrix) |
+| [0130-surrounded-regions](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0130-surrounded-regions) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0994-rotting-oranges) |
 | [0542-01-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0542-01-matrix) |
+| [0130-surrounded-regions](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0130-surrounded-regions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0547-number-of-provinces) |
 | [0200-number-of-islands](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0200-number-of-islands) |
+| [0130-surrounded-regions](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0130-surrounded-regions) |
 ## Simulation
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0994-rotting-oranges) |
 | [0542-01-matrix](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0542-01-matrix) |
+| [0130-surrounded-regions](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0547-number-of-provinces) |
 | [0200-number-of-islands](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0733-flood-fill) |
+| [0130-surrounded-regions](https://github.com/sidj7/2026-switch-preparation-LC/tree/master/0130-surrounded-regions) |
 ## Bit Manipulation
 |  |
 | ------- |
